@@ -1,2 +1,3 @@
 # Tech-Geeks-Hub
-Community for Tech Geeks!
+Community for Tech Geeks.
+Where Geeks Meet!
