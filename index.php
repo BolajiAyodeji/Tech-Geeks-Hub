@@ -2,7 +2,19 @@
 include_once 'header-home.php';
 ?>
 <body>
-<img src="home-bg.jpg" style="width:80%">
+        <div class="container">
+                <div class="row">
+                        <div class="col-lg-12">
+                                <div id="content">
+                                <h1>TECH GEEKS HUB</h1>
+                                <p>Where Geeks Meet!</p>
+                                <hr />
+                                <button class="btn btn-success btn-lg">Get Started <br /> <i class=" fa fa-chevron-down"</i></i></button>
+                                </div>
+                        </div>    
+                </div>
+        </div> 
+
 
 
 

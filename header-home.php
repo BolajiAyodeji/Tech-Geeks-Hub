@@ -10,8 +10,9 @@
 
             <!-- Style Sheets-->
 
-            <link rel="stylesheet " href="https://fonts.googleapis.com/css?family=Montserrat ">
-            <link rel="stylesheet " href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css ">
+            <link rel="stylesheet " type="text/css" href="style.css">
+            <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+            <link rel="stylesheet " href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
             <!-- Bootstrap CDN -->
 
@@ -65,11 +66,11 @@
                         </li>
                         <div class="dropdown-divider"></div>
                       </ul>
-                      <form class="form-inline my-1 ">
-                        <input class="form-control mr-sm-1" type="email" placeholder="Email" name="email" required>
+                      <form class="form-inline my-1">
+                        <input class="form-control mr-sm-1" type="email" placeholder="Email" name="email">
                         <br /><br />
-                        <input class="form-control mr-sm-2" type="password" placeholder="Password" name="pwd" required>
-                        <button class="btn btn-outline-light" type="submit">Login&nbsp<i class="fa fa-user"></i></button>&nbsp&nbsp
+                        <input class="form-control mr-sm-2" class="form-control" type="password" placeholder="Password" name="pwd">
+                        <button class="btn btn-outline-light" class="form-control type="submit">Login&nbsp<i class="fa fa-user"></i></button>&nbsp&nbsp
                         <a class="btn btn-outline-light" href="signup.php">Sign Up&nbsp<i class="fa fa-user-plus"></i></a>
                       </form>
                     </div>
