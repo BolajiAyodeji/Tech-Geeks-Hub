@@ -1,0 +1,25 @@
+body {
+    background: url(home-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+html {
+    height:100%;
+}
+h1 {
+    color: black;
+    font-weight:10;
+    font-size:5em;
+    font-family: lato;
+}
+p {
+    color: black;
+    font-family: pacifico;   
+}
+hr {
+    width:350px;
+}
+#content {
+    text-align:center;
+    padding-top: 25%;
+}

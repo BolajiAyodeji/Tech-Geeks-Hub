@@ -9,11 +9,18 @@ include_once 'header-home.php';
                                 <h1>TECH GEEKS HUB</h1>
                                 <p>Where Geeks Meet!</p>
                                 <hr />
-                                <button class="btn btn-success btn-lg">Get Started <br /> <i class=" fa fa-chevron-down"</i></i></button>
+                                <button class="btn btn-success btn-lg">Get Started <br /> <i class=" fa fa-angle-double-down"</i></i></button>
                                 </div>
                         </div>    
                 </div>
         </div> 
+        <main>
+                <div class="container">
+                        <div class="row">
+
+                        
+</div>
+</div>
 
 
 
