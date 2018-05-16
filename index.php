@@ -3,9 +3,10 @@ include_once 'header-home.php';
 ?>
 <body>
         <div class="wrapper">
+            <div class="container">
                 <div class="row">
-                        <div class="col-lg-12">
-                                
+                    <div class="col-lg-12">
+                                                      
                                 <h1>TECH GEEKS HUB</h1>
                                 <p>Where Geeks Meet!</p>
                                 <hr />
@@ -14,6 +15,7 @@ include_once 'header-home.php';
                                 </div>
                         </div>    
                 </div>
+            </div>
         
         <main>
                 <div class="container">
