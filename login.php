@@ -1,8 +1,40 @@
 <?php
 include_once 'header-login.php';
 ?>
-    <body>
- <div class="bg-light">
+    <body class="bg-light">
+<div class="container">
+    <div class="row">
+        <form action="/action_page.php">
+            <fieldset>
+                <legend>Login</legend>
+                <br />
+                <div class="input-group input-group-lg">
+                <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-lg">Email&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+            </div>
+
+            <input type="email" class="form-control" placeholder="example@gmail.com" required>
+            </div>
+
+                <br />
+                <div class="input-group input-group-lg">
+                <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-lg">Password</span>
+            </div>
+                <input type="password" class="form-control" placeholder="********">
+            </div>
+                <br />
+                <div class="form-group form-check">
+                <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                <label class="form-check-label" for="exampleCheck1">Remember me</label>
+                </div>
+                <div class="btn btn-success btn-lg">Login</div>
+                
+
+            </fieldset>
+        </form>
+    </div>
+</div>
 
   
  </div>
