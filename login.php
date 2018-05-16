@@ -2,7 +2,7 @@
 include_once 'header-login.php';
 ?>
     <body class="bg-light">
-<div class="container">
+<div class="container center_div">
     <div class="row">
         <form action="/action_page.php">
             <fieldset>
@@ -34,6 +34,7 @@ include_once 'header-login.php';
             </fieldset>
         </form>
     </div>
+</div>
 </div>
 
   
