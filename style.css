@@ -1,10 +1,11 @@
 body {
-    background: url(home-bg.jpg);
+    background: url();
     background-size: cover;
     background-position: center;
 }
-html {
-    height:100%;
+body, html {
+    height: 100%;
+    margin: 0;
 }
 h1 {
     color: black;
@@ -19,7 +20,18 @@ p {
 hr {
     width:350px;
 }
-#content {
+.wrapper {
+    /* The image used */
+    background-image: url("header.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Center text */
     text-align:center;
     padding-top: 25%;
 }
