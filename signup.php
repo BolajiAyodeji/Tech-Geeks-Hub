@@ -2,7 +2,28 @@
 include_once 'header-signup.php';
 ?>
 <body>
-<div class="bg-light">
+<div class="bg-light container">
+	<div class="row">
+		<form>
+			<fieldset>
+				<legend>SignUp</legend>
+				<input type="text" value="First Name" required>
+				<br />
+				<input type="text" value="Last Name" required>
+				<br />
+				<input type="email" value="Email" required>
+				<br />
+				<input type="text" value="Phone Number" required>
+				<br />
+				<input type="password" value="New Password" required>
+				<br />
+				<input type="password" value="Confirm Password" required>
+				<br />
+				<div class="btn btn-success">Sign Up</div>
+			</fieldset>
+		</form>
+	</div>
+
 
   
 </div>
