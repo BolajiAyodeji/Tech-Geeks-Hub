@@ -1,26 +1,67 @@
 <?php
 include_once 'header-signup.php';
 ?>
-<body>
-<div class="bg-light container">
+<body class="bg-light">
+<div class="container">
 	<div class="row">
 		<form>
 			<fieldset>
 				<legend>SignUp</legend>
-				<input type="text" value="First Name" required>
 				<br />
-				<input type="text" value="Last Name" required>
-				<br />
-				<input type="email" value="Email" required>
-				<br />
-				<input type="text" value="Phone Number" required>
-				<br />
-				<input type="password" value="New Password" required>
-				<br />
-				<input type="password" value="Confirm Password" required>
-				<br />
-				<div class="btn btn-success">Sign Up</div>
-			</fieldset>
+                <div class="input-group input-group-lg">
+                <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-lg">First Name&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+            </div>
+
+            <input type="text" class="form-control" placeholder="Bolaji" required>
+            </div>
+            
+                <br />
+
+                <div class="input-group input-group-lg">
+                <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-lg">Last Name&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+            </div>
+                <input type="password" class="form-control" placeholder="Ayodeji" required>
+            </div>
+
+                <br />
+
+                <div class="input-group input-group-lg">
+                <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-lg">Email&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+            </div>
+            <input type="email" class="form-control" placeholder="example@gmail.com" required>
+            </div>
+
+            <br />
+
+            <div class="input-group input-group-lg">
+                <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-lg">Phone Number&nbsp&nbsp&nbsp&nbsp</span>
+            </div>
+            <input type="text" class="form-control" placeholder="+234 000 111 000" required>
+            </div>
+
+            <br />
+
+            <div class="input-group input-group-lg">
+                <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-lg">New Password&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+            </div>
+            <input type="password" class="form-control" placeholder="*********" required>
+            </div>
+
+            <br />
+
+            <div class="input-group input-group-lg">
+                <div class="input-group-prepend">
+                <span class="input-group-text" id="inputGroup-sizing-lg">Confirm Password</span>
+            </div>
+            <input type="password" class="form-control" placeholder="**********" required>
+            </div>
+            <br />
+                <div class="btn btn-success btn-lg">Sign Up</div>
 		</form>
 	</div>
 
