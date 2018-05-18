@@ -1,8 +1,6 @@
 body {
     background: url();
-    background-size: cover;
-    background-position: center;
-}
+    }
 body, html {
     height: 100%;
     margin: 0;
@@ -21,17 +19,17 @@ hr {
     width:350px;
 }
 .wrapper {
-    /* The image used */
     background-image: url("header.jpg");
-
-    /* Full height */
-    height: 100%; 
-
-    /* Center and scale the image nicely */
+    height: 84%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /* Center text */
-    text-align:center;
     padding-top: 25%;
+}
+.form{
+    width:100%;
+    height:500px;
+    background-position: center;
+}#content{
+    text-align:center;
 }

@@ -2,10 +2,13 @@
 include_once 'header-signup.php';
 ?>
 <body class="bg-light">
-<div class="container">
-	<div class="row">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                    <div id="content">
 		<form>
-			<fieldset>
+			<fieldset class="form">
 				<legend>SignUp</legend>
 				<br />
                 <div class="input-group input-group-lg">
@@ -61,16 +64,11 @@ include_once 'header-signup.php';
             <input type="password" class="form-control" placeholder="**********" required>
             </div>
             <br />
-                <div class="btn btn-success btn-lg">Sign Up</div>
+                <div class="btn btn-secondary btn-lg">Sign Up</div>
 		</form>
-	</div>
-
-
-  
+    </div>
 </div>
-
-
-
+</div>
 
 
 
