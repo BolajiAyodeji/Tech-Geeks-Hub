@@ -6,15 +6,17 @@ include_once 'header-home.php';
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
+                    <div id="content">
                                                       
                                 <h1>TECH GEEKS HUB</h1>
                                 <p>Where Geeks Meet!</p>
                                 <hr />
-                                <button class="btn btn-success btn-lg">
+                                <button class="btn btn-secondary btn-lg">
                                     Get Started <br /> <i class=" fa fa-angle-double-down"</i></i></button>
                                 </div>
                         </div>    
                 </div>
+            </div>
             </div>
         
         <main>

@@ -2,8 +2,9 @@
 include_once 'header-login.php';
 ?>
     <body class="bg-light">
-<div class="container center_div">
+<div class="container">
     <div class="row">
+        <div class="col-lg-12">
         <form action="/action_page.php">
             <fieldset>
                 <legend>Login</legend>
@@ -28,7 +29,7 @@ include_once 'header-login.php';
                 <input type="checkbox" class="form-check-input" id="exampleCheck1">
                 <label class="form-check-label" for="exampleCheck1">Remember me</label>
                 </div>
-                <div class="btn btn-success btn-lg">Login</div>
+                <div class="btn btn-secondary btn-lg">Login</div>
                 
 
             </fieldset>
