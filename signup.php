@@ -34,7 +34,7 @@ include_once 'header-signup.php';
                 <div class="input-group-prepend">
                 <span class="input-group-text" id="inputGroup-sizing-lg">Email&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
             </div>
-            <input type="email" class="form-control" placeholder="example@gmail.com" required>
+            <input type="email" class="form-control" placeholder="xxx@gmail.com" required>
             </div>
 
             <br />

@@ -8,21 +8,23 @@
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width" , initial-scale="1.0" shrink-to-fit="no">
     
-                <!-- Style Sheets-->
-    
-                <link rel="stylesheet " href="https://fonts.googleapis.com/css?family=Montserrat ">
-                <link rel="stylesheet " href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css ">
-    
                 <!-- Bootstrap CDN -->
+
+    <link rel="stylesheet " href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css
+    "integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4 " crossorigin="anonymous ">
+
+    <!-- Style Sheets-->
+
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+    <link rel="stylesheet " href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet " type="text/css" href="style.css">
     
-                <link rel="stylesheet " href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css
-                " integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4 " crossorigin="anonymous ">
-    </head>
+  </head>
     <header>
                 <!-- Nav Bar -->
               
                 <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
-                    <img src="TGHLogo.png" style="width:5%" class="btn btn-outline-light bg-secondary">
+                    <img src="TGHLogo.png" style="width:5%" class="btn btn-light bg-secondary">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                       aria-expanded="false" aria-label="Toggle navigation">
                       <span class="navbar-toggler-icon"></span>

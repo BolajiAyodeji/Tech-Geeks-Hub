@@ -8,7 +8,7 @@ include_once 'header-home.php';
                     <div class="col-lg-12">
                     <div id="content">
                                                       
-                                <h1>TECH GEEKS HUB</h1>
+                                <h2>TECH GEEKS HUB</h2>
                                 <p>Where Geeks Meet!</p>
                                 <hr />
                                 <button class="btn btn-secondary btn-lg">

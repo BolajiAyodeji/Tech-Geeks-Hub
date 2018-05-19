@@ -5,10 +5,10 @@ body, html {
     height: 100%;
     margin: 0;
 }
-h1 {
-    color: black;
+h2 {
+    color: black ;
     font-weight:10;
-    font-size:5em;
+    font-size:4em;
     font-family: lato;
 }
 p {
@@ -20,7 +20,7 @@ hr {
 }
 .wrapper {
     background-image: url("header.jpg");
-    height: 84%; 
+    height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -34,8 +34,11 @@ hr {
     text-align:center;
 }
 .bg-secondary{
-    color: powderblue;
+    background-color: blue;
 }
-.btn{
-    border-radius:10px;
+.btn-secondary{
+    border-radius:25px 10px;
+}
+.btn-outline-light{
+    border-radius:20px;  
 }
