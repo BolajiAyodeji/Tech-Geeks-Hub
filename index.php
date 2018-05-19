@@ -11,7 +11,7 @@ include_once 'header-home.php';
                                 <h2>TECH GEEKS HUB</h2>
                                 <p>Where Geeks Meet!</p>
                                 <hr />
-                                <button class="btn btn-secondary btn-lg">
+                                <button class="btn btn-secondary btn-lg" style="border-radius:25px 10px";>
                                     Get Started <br /> <i class=" fa fa-angle-double-down"</i></i></button>
                                 </div>
                         </div>    
@@ -22,8 +22,7 @@ include_once 'header-home.php';
         <main>
                 <div class="container">
                         <div class="row">
-
-                        
+      
 </div>
 </div>
 

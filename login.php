@@ -6,6 +6,7 @@ include_once 'header-login.php';
     <div class="row">
         <div class="col-lg-12">
         <form action="/action_page.php">
+        <br /><br />
             <fieldset>
                 <legend>Login</legend>
                 <br />

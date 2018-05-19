@@ -7,6 +7,7 @@ include_once 'header-signup.php';
                 <div class="row">
                     <div class="col-lg-12">
                     <div id="content">
+                        <br /><br />
 		<form>
 			<fieldset class="form">
 				<legend>SignUp</legend>
