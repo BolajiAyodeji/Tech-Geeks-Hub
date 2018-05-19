@@ -1,0 +1,44 @@
+body {
+    background: url();
+    }
+body, html {
+    height: 100%;
+    margin: 0;
+}
+h2 {
+    color: black ;
+    font-weight:10;
+    font-size:4em;
+    font-family: lato;
+}
+p {
+    color: black;
+    font-family: pacifico;   
+}
+hr {
+    width:350px;
+}
+.wrapper {
+    background-image: url("header.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 25%;
+}
+.form{
+    width:100%;
+    height:500px;
+    background-position: center;
+}#content{
+    text-align:center;
+}
+.bg-secondary{
+    background-color: blue;
+}
+.btn-secondary{
+    border-radius:25px 10px;
+}
+.btn-outline-light{
+    border-radius:20px;  
+}
