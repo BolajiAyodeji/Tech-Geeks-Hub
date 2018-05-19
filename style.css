@@ -33,3 +33,9 @@ hr {
 }#content{
     text-align:center;
 }
+.bg-secondary{
+    color: powderblue;
+}
+.btn{
+    border-radius:10px;
+}
