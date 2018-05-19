@@ -46,9 +46,6 @@ hr {
 #content2{
     text-align:center;
 }
-.color{
-    color: blue;
-}
 .btn-secondary{
     border-radius:20px;
 }
@@ -60,7 +57,7 @@ hr {
 }
 .fa-apple{
     font-size:5em;
-    color:grey;
+    color:lavenderblush;
 }
 .fa-android{
     font-size:5em;
