@@ -5,9 +5,9 @@ include_once 'header-signup.php';
 
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12">
                     <div id="content">
-                        <br /><br />
+                    <form action="/action_page.php">
+                        <br /><br /><br /><br />
 		<form>
 			<fieldset class="form">
 				<legend>SignUp</legend>

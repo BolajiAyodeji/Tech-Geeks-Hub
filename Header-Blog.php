@@ -68,12 +68,11 @@
           <div class="dropdown-divider"></div>
         </ul>
         <form class="form-inline my-1">
-          <input class="form-control mr-sm-1" type="email" placeholder="Email" id="email" name="email">
+          <input class="form-control mr-sm-1" type="text" placeholder="Name" id="name" name="name">
           <br />
           <br />
-          <input class="form-control mr-sm-2" class="form-control" type="password" placeholder="Password" id="pwd" name="pwd">
-          <button class="btn btn-outline-light" class="form-control type=" submit ">Login&nbsp<i class="fa fa-user "></i></button>&nbsp&nbsp
-                        <a class="btn btn-outline-light " href="signup.php ">Sign Up&nbsp<i class="fa fa-user-plus "></i></a>
+          <input class="form-control mr-sm-2" class="form-control" type="email" placeholder="Email" id="email" name="email">
+          <button class="btn btn-outline-light" class="form-control type="submit">Subscribe&nbsp<i class="fa fa-envelope"></i></button>&nbsp&nbsp
                       </form>
                     </div>
                   </nav>

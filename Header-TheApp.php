@@ -23,8 +23,8 @@
   <header>
     <!-- Nav Bar -->
     
-    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-secondary">
-      <img src="images/TGHLogo.png" style="width:5%" class="btn btn-light bg-secondary">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light color">
+      <img src="TGHLogo.png" style="width:5%" class="btn btn-light bg-secondary">
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
         aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>

@@ -4,9 +4,9 @@ include_once 'header-login.php';
     <body class="bg-light">
 <div class="container">
     <div class="row">
-        <div class="col-lg-12">
+        <div id="content2">
         <form action="/action_page.php">
-        <br /><br />
+        <br /><br /><br /><br />
             <fieldset>
                 <legend>Login</legend>
                 <br />

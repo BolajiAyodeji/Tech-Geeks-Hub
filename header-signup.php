@@ -1,4 +1,4 @@
-<DOCTYPE html>
+<!doctype  html>
         <html lang="en-US">
     
         <head>
@@ -24,7 +24,7 @@
                 <!-- Nav Bar -->
               
                 <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-secondary">
-                    <img src="TGHLogo.png" style="width:5%" class="btn btn-light bg-secondary">
+                    <img src="images/TGHLogo.png" style="width:5%" class="btn btn-light bg-secondary">
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                       aria-expanded="false" aria-label="Toggle navigation">
                       <span class="navbar-toggler-icon"></span>
@@ -59,11 +59,11 @@
                             </li>
                             <div class="dropdown-divider"></div>
                                     <li class="nav-item">
-                                    <a class="nav-link" href="#blog">Blog</a>
+                                    <a class="nav-link" href="Blog.php">Blog</a>
                                   </li>
                             <div class="dropdown-divider"></div>
                             <li class="nav-item">
-                              <a class="nav-link" href="#app">The App</a>
+                              <a class="nav-link" href="TheApp.php">The App</a>
                             </li>
                             <div class="dropdown-divider"></div>
                           </ul>

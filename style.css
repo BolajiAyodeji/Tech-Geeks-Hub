@@ -6,7 +6,7 @@ body, html {
     margin: 0;
 }
 h2 {
-    color: black ;
+    color: darkslategrey ;
     font-weight:10;
     font-size:4em;
     font-family: lato;
@@ -16,29 +16,59 @@ p {
     font-family: pacifico;   
 }
 hr {
-    width:350px;
+    width:300px;
+    color:white;
 }
-.wrapper {
-    background-image: url("header.jpg");
+.wrapper1 {
+    background-image: url("images/header.jpg");
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 25%;
 }
+.wrapper2 {
+    background-image: url("images/TheApp.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 25%;
+
+}
 .form{
     width:100%;
     height:500px;
     background-position: center;
-}#content{
+}#content1{
     text-align:center;
 }
-.bg-secondary{
-    background-color: blue;
+#content2{
+    text-align:center;
+}
+.color{
+    color: blue;
 }
 .btn-secondary{
     border-radius:20px;
 }
 .btn-outline-light{
-    border-radius:20px;  
+    border-radius:20px;
+}
+.button{
+    border-radius:25px 10px
+}
+.fa-apple{
+    font-size:5em;
+    color:grey;
+}
+.fa-android{
+    font-size:5em;
+    color:green;
+}
+.link{
+    text-decoration: none;
+}
+.font{
+    font-size: 2em;
 }

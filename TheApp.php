@@ -2,18 +2,20 @@
 include_once 'header-home.php';
 ?>
 <body>
-        <div class="wrapper1">
+        <div class="wrapper2">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                     <div id="content1">
                                                       
-                                <h2>TECH GEEKS HUB</h2>
-                                <p>Where Geeks Meet!</p>
+                                <p class="text-light font">Our official App is under construction!</p>
+                                <i class="fa fa-android"></i></h2>
+                                &nbsp&nbsp&nbsp
+                                <i class="fa fa-apple"></i>
                                 <hr />
-                                <a href="#">
+                                <a href="login.php" class="link">
                                 <button class="btn btn-secondary button btn-lg">
-                                    Get Started <br /> <i class=" fa fa-angle-double-down"</i></i></button>
+                                Join Community <br /> <i class=" fa fa-users"</i></i></button>
                                 </div>
                         </div>    
                 </div>
