@@ -6,7 +6,7 @@ include_once 'includes/header-signup.php';
             <div class="container">
                 <div class="row">
                     <div id="content">
-                    <form action="/action_page.php">
+                    <form action="/action_page.php" mehod="POST">
                         <br /><br /><br /><br />
 		<form>
 			<fieldset class="form">

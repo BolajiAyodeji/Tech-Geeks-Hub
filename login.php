@@ -5,7 +5,7 @@ include_once 'includes/header-login.php';
 <div class="container">
     <div class="row">
         <div id="content2">
-        <form action="/action_page.php">
+        <form action="/action_page.php" method="POST">
         <br /><br /><br /><br />
             <fieldset>
                 <legend>Login</legend>

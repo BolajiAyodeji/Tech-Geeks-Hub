@@ -72,7 +72,7 @@
           <br />
           <br />
           <input class="form-control mr-sm-2" class="form-control" type="email" placeholder="Email" id="email" name="email">
-          <button class="btn btn-outline-light" class="form-control type="submit">Subscribe&nbsp<i class="fa fa-envelope"></i></button>&nbsp&nbsp
+          <button class="btn btn-outline-light" class="form-control" type="submit">Subscribe&nbsp<i class="fa fa-envelope"></i></button>&nbsp&nbsp
                       </form>
                     </div>
                   </nav>
