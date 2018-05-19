@@ -1,5 +1,5 @@
 <?php
-include_once 'header-home.php';
+include_once 'includes/header-home.php';
 ?>
 <body>
         <div class="wrapper2">

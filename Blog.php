@@ -1,3 +1,3 @@
 <?php
-include_once 'header-Blog.php';
+include_once 'includes/header-Blog.php';
 ?>
